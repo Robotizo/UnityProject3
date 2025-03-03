@@ -8,7 +8,7 @@ Free Roam, collect coins and jump.
 
 - **Horizontal Move:** W,A,S,D
 - **Direction:** Use Mouse
-- **Jumo:** Spacebar (can double jump)
+- **Jump:** Spacebar (can double jump)
 
 ## Gameplay Demo
 
