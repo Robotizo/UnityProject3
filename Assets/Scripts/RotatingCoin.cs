@@ -20,8 +20,8 @@ public class RotatingCoin : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            GameManager.Instance.AddScore(coinValue); // ✅ Update score
-            Destroy(gameObject); // ✅ Remove the coin
+            GameManager.Instance.AddScore(coinValue); 
+            Destroy(gameObject); 
         }
     }
 }
