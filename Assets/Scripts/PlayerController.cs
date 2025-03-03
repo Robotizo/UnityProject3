@@ -5,7 +5,6 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5f;
-    [SerializeField] private float acceleration = 10f;
     [SerializeField] private float jumpForce = 5f;
     [SerializeField] private float gravityMultiplier = 2.5f;
     [SerializeField] private int maxJumps = 2;
